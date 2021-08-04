@@ -529,7 +529,7 @@ main {
         margin-top: 0; }
         main .body .sections .box {
           width: 300px;
-          height: 50px;
+          height: 40px;
           background: #000000;
           border-bottom-left-radius: 0;
           border-bottom-right-radius: 0;
@@ -537,7 +537,7 @@ main {
           display: flex;
           justify-content: center;
           align-items: center;
-          margin-top: 0px;
+          margin-top: 10px;
           transition: all 0.3s ease-in-out;
           border: solid 1px white; }
           main .body .sections .box a {
@@ -547,7 +547,7 @@ main {
             height: 100px; }
       main .body .reason {
         width: 300px;
-        height: 50vh;
+        height: 48vh;
         background: rgba(0, 0, 0, 0.3);
         border-top: 2px solid black;
         border-left: 2px solid black;
@@ -563,7 +563,7 @@ main {
           color: #fff;
           margin-bottom: 10px; }
         main .body .reason .smallText {
-          font-size: 15px; }
+          font-size: 12px; }
   .bootstrap {
     background: url("/dist/icons/bg2.jpg");
     height: 100vh;
